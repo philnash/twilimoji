@@ -1,0 +1,8 @@
+{
+  "name": "twilimoji",
+  "version": "1.0.0",
+  "description": "Twilio Programmable Chat based Emoji chat",
+  "main": "index.js",
+  "author": "Phil Nash",
+  "license": "MIT"
+}
