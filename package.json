@@ -4,5 +4,13 @@
   "description": "Twilio Programmable Chat based Emoji chat",
   "main": "index.js",
   "author": "Phil Nash",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "twilio": "3.0.0-rc.14"
+  },
+  "devDependencies": {
+    "dotenv": "^2.0.0"
+  }
 }
